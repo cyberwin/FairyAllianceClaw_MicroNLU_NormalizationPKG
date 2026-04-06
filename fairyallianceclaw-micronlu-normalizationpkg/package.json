@@ -1,0 +1,17 @@
+{
+  "name": "fairyallianceclaw-micronlu-normalizationpkg",
+  "version": "1.0.0",
+  "description": "UniversalNLU 文本归一化 & 意图解析 JS 包",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "nlu",
+    "normalization",
+    "text-clean",
+    "intent-recognition"
+  ],
+  "author": "未来之窗 神识",
+  "license": "MIT"
+}
