@@ -3,6 +3,7 @@ name: fairyallianceclaw-micronlu-normalizationpkg
 displayName: 神识通用NLU归一化包
 version: 1.0.0
 description: JS版自然语言理解、文本清洗、参数提取、意图解析、称重场景适配工具 FairyAllianceClaw_MicroNLU_NormalizationPKG
+metadata: '{"openclaw": {"emoji": "💡"}}' 
 author: 未来之窗 神识
 license: MIT
 tags: [NLU, 自然语言处理, 文本归一化, 意图解析, 称重]
